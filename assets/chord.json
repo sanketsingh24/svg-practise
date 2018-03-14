@@ -1,0 +1,323 @@
+{
+  "fulldata": [
+    {
+      "taxId": 4427,
+      "taxonomyName": "Ceratophyllum L., 1753",
+      "keywordId": "KW-9998",
+      "keywordName": "Cellular component",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "genus",
+      "keywordCategory": "Cellular component",
+      "spectCount": 103
+    },
+    {
+      "taxId": 33090,
+      "taxonomyName": "green plants",
+      "keywordId": "KW-0157",
+      "keywordName": "Chromophore",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "kingdom",
+      "keywordCategory": "Ligand",
+      "spectCount": 29
+    },
+    {
+      "taxId": 2,
+      "taxonomyName": "prokaryotes",
+      "keywordId": "KW-9992",
+      "keywordName": "Molecular function",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "superkingdom",
+      "keywordCategory": "Molecular function",
+      "spectCount": 14
+    },
+    {
+      "taxId": 424574,
+      "taxonomyName": "Solaneae",
+      "keywordId": "KW-0934",
+      "keywordName": "Plastid",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "tribe",
+      "keywordCategory": "Cellular component",
+      "spectCount": 215
+    },
+    {
+      "taxId": 1644055,
+      "taxonomyName": "Haloferacales Gupta et al. 2015",
+      "keywordId": "KW-9993",
+      "keywordName": "Ligand",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "order",
+      "keywordCategory": "Ligand",
+      "spectCount": 1
+    },
+    {
+      "taxId": 3699,
+      "taxonomyName": "Capparales",
+      "keywordId": "KW-0406",
+      "keywordName": "Ion transport",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "order",
+      "keywordCategory": "Biological process",
+      "spectCount": 14
+    },
+    {
+      "taxId": 543,
+      "taxonomyName": "gamma-3 proteobacteria",
+      "keywordId": "KW-0285",
+      "keywordName": "Flavoprotein",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "family",
+      "keywordCategory": "Ligand",
+      "spectCount": 1
+    },
+    {
+      "taxId": 862507,
+      "taxonomyName": "Mus",
+      "keywordId": "KW-9994",
+      "keywordName": "Domain",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "subgenus",
+      "keywordCategory": "Domain",
+      "spectCount": 10
+    },
+    {
+      "taxId": 58023,
+      "taxonomyName": "vascular plants",
+      "keywordId": "KW-9991",
+      "keywordName": "PTM",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "no rank",
+      "keywordCategory": "PTM",
+      "spectCount": 52
+    },
+    {
+      "taxId": 1236,
+      "taxonomyName": "gamma subgroup",
+      "keywordId": "KW-9990",
+      "keywordName": "Technical term",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "class",
+      "keywordCategory": "Technical term",
+      "spectCount": 25
+    },
+    {
+      "taxId": 770,
+      "taxonomyName": "no culture available",
+      "keywordId": "KW-9993",
+      "keywordName": "Ligand",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "species",
+      "keywordCategory": "Ligand",
+      "spectCount": 1
+    },
+    {
+      "taxId": 33090,
+      "taxonomyName": "green plants",
+      "keywordId": "KW-9998",
+      "keywordName": "Cellular component",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "kingdom",
+      "keywordCategory": "Cellular component",
+      "spectCount": 10
+    },
+    {
+      "taxId": 58023,
+      "taxonomyName": "vascular plants",
+      "keywordId": "KW-0812",
+      "keywordName": "Transmembrane",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "no rank",
+      "keywordCategory": "Cellular component",
+      "spectCount": 35
+    },
+    {
+      "taxId": 3699,
+      "taxonomyName": "Capparales",
+      "keywordId": "KW-0181",
+      "keywordName": "Complete proteome",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "order",
+      "keywordCategory": "Technical term",
+      "spectCount": 105
+    },
+    {
+      "taxId": 777,
+      "taxonomyName": "Rickettsia diaporica",
+      "keywordId": "KW-9993",
+      "keywordName": "Ligand",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "species",
+      "keywordCategory": "Ligand",
+      "spectCount": 2
+    },
+    {
+      "taxId": 147387,
+      "taxonomyName": "Poeae R. Br., 1814",
+      "keywordId": "KW-0602",
+      "keywordName": "Photosynthesis",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "tribe",
+      "keywordCategory": "Biological process",
+      "spectCount": 129
+    },
+    {
+      "taxId": 1,
+      "taxonomyName": "root",
+      "keywordId": "KW-0687",
+      "keywordName": "Ribonucleoprotein",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "no rank",
+      "keywordCategory": "Molecular function",
+      "spectCount": 2
+    },
+    {
+      "taxId": 131567,
+      "taxonomyName": "cellular organisms",
+      "keywordId": "KW-0181",
+      "keywordName": "Complete proteome",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "no rank",
+      "keywordCategory": "Technical term",
+      "spectCount": 5
+    },
+    {
+      "taxId": 35493,
+      "taxonomyName": "Streptophyta Bremer, 1985",
+      "keywordId": "KW-0812",
+      "keywordName": "Transmembrane",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "phylum",
+      "keywordCategory": "Domain",
+      "spectCount": 21
+    },
+    {
+      "taxId": 186801,
+      "taxonomyName": "Clostridia Rainey 2010",
+      "keywordId": "KW-9992",
+      "keywordName": "Molecular function",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "class",
+      "keywordCategory": "Molecular function",
+      "spectCount": 7
+    },
+    {
+      "taxId": 1890424,
+      "taxonomyName": "Synechococcales",
+      "keywordId": "KW-9992",
+      "keywordName": "Molecular function",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "order",
+      "keywordCategory": "Molecular function",
+      "spectCount": 41
+    },
+    {
+      "taxId": 4055,
+      "taxonomyName": "Gentianales",
+      "keywordId": "KW-9998",
+      "keywordName": "Cellular component",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "order",
+      "keywordCategory": "Cellular component",
+      "spectCount": 52
+    },
+    {
+      "taxId": 3398,
+      "taxonomyName": "flowering plants",
+      "keywordId": "KW-9998",
+      "keywordName": "Cellular component",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "no rank",
+      "keywordCategory": "Cellular component",
+      "spectCount": 30
+    },
+    {
+      "taxId": 147380,
+      "taxonomyName": "Oryzeae Dumort., 1824",
+      "keywordId": "KW-0813",
+      "keywordName": "Transport",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "tribe",
+      "keywordCategory": "Biological process",
+      "spectCount": 57
+    },
+    {
+      "taxId": 9605,
+      "taxonomyName": "humans",
+      "keywordId": "KW-9997",
+      "keywordName": "Coding sequence diversity",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "genus",
+      "keywordCategory": "Coding sequence diversity",
+      "spectCount": 5
+    },
+    {
+      "taxId": 131567,
+      "taxonomyName": "cellular organisms",
+      "keywordId": "KW-9990",
+      "keywordName": "Technical term",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "no rank",
+      "keywordCategory": "Technical term",
+      "spectCount": 50
+    },
+    {
+      "taxId": 2,
+      "taxonomyName": "prokaryotes",
+      "keywordId": "KW-0547",
+      "keywordName": "Nucleotide-binding",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "superkingdom",
+      "keywordCategory": "Ligand",
+      "spectCount": 1
+    },
+    {
+      "taxId": 91827,
+      "taxonomyName": "core eudicotyledons",
+      "keywordId": "KW-0602",
+      "keywordName": "Photosynthesis",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "no rank",
+      "keywordCategory": "Biological process",
+      "spectCount": 2
+    },
+    {
+      "taxId": 58023,
+      "taxonomyName": "vascular plants",
+      "keywordId": "KW-0479",
+      "keywordName": "Metal-binding",
+      "taxonomyVisibility": "True",
+      "keywordVisibility": "True",
+      "taxonomyRank": "no rank",
+      "keywordCategory": "Ligand",
+      "spectCount": 139
+    }
+  ]
+}
