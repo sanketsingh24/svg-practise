@@ -6,8 +6,8 @@
   "scripts": {
     "start": "./node_modules/.bin/webpack-dev-server --hot"
   },
-  "author": "Dheeraj",
-  "license": "ISC",
+  "author": "Sanket Singh",
+  "license": "DBAD",
   "devDependencies": {
     "autoprefixer": "^7.2.3",
     "axios": "^0.17.1",
