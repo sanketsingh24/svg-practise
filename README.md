@@ -1,6 +1,6 @@
 ### svg-practise
 
-SVG graphs using d3.js
+SVG graphs creation using d3.js
 
 SVG are cool (with a little help from webpack and semantic-ui)
 
